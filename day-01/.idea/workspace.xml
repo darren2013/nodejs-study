@@ -34,14 +34,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7.util.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="7.util.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/3.global/7.util.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7315436">
+            <state vertical-scroll-proportion="0.0">
               <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1.events.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.events/1.events.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2.testThis.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.events/2.testThis.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3.events.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.events/3.events.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.26174498">
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="4.events.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/4.events/4.events.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -88,6 +128,10 @@
         <option value="$PROJECT_DIR$/3.global/5.setImme.js" />
         <option value="$PROJECT_DIR$/3.global/6.setImme.js" />
         <option value="$PROJECT_DIR$/3.global/7.util.js" />
+        <option value="$PROJECT_DIR$/4.events/1.events.js" />
+        <option value="$PROJECT_DIR$/4.events/2.testThis.js" />
+        <option value="$PROJECT_DIR$/4.events/4.events.js" />
+        <option value="$PROJECT_DIR$/4.events/3.events.js" />
       </list>
     </option>
   </component>
@@ -97,8 +141,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="129" />
-    <option name="y" value="116" />
+    <option name="x" value="165" />
+    <option name="y" value="23" />
     <option name="width" value="1487" />
     <option name="height" value="773" />
   </component>
@@ -156,35 +200,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="node" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="http2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day-01" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="3.global" />
+              <option name="myItemId" value="4.events" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -194,7 +210,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Custom" />
     <property name="javascript.nodejs.core.library.configured.version" value="5.7.0" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -205,24 +221,25 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/4.events" />
       <recent name="$PROJECT_DIR$/3.global" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.7.util.js">
-    <configuration default="false" name="3.process.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="3.process.js" working-dir="$PROJECT_DIR$/3.global">
-      <method />
-    </configuration>
-    <configuration default="false" name="4.nexttick.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="4.nexttick.js" working-dir="$PROJECT_DIR$/3.global">
-      <method />
-    </configuration>
-    <configuration default="false" name="5.setImme.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="5.setImme.js" working-dir="$PROJECT_DIR$/3.global">
-      <method />
-    </configuration>
-    <configuration default="false" name="6.setImme.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="6.setImme.js" working-dir="$PROJECT_DIR$/3.global">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.3.events.js">
     <configuration default="false" name="7.util.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="7.util.js" working-dir="$PROJECT_DIR$/3.global">
+      <method />
+    </configuration>
+    <configuration default="false" name="1.events.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="1.events.js" working-dir="$PROJECT_DIR$/4.events">
+      <method />
+    </configuration>
+    <configuration default="false" name="2.testThis.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="2.testThis.js" working-dir="$PROJECT_DIR$/4.events">
+      <method />
+    </configuration>
+    <configuration default="false" name="3.events.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="3.events.js" working-dir="$PROJECT_DIR$/4.events">
+      <method />
+    </configuration>
+    <configuration default="false" name="4.events.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="/usr/local/bin/node" path-to-js-file="4.events.js" working-dir="$PROJECT_DIR$/4.events">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -269,19 +286,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.3.process.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.4.nexttick.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.5.setImme.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.6.setImme.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.7.util.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.7.util.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.1.events.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.2.testThis.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.3.events.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.4.events.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.7.util.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.6.setImme.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.5.setImme.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.4.nexttick.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.3.process.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.3.events.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.4.events.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.2.testThis.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.1.events.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.7.util.js" />
       </list>
     </recent_temporary>
   </component>
@@ -299,15 +316,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="129" y="116" width="1487" height="773" extended-state="0" />
-    <editor active="true" />
+    <frame x="165" y="23" width="1487" height="773" extended-state="0" />
+    <editor active="false" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21519838" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3252841" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -480,11 +497,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.global/7.util.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7315436">
+        <state vertical-scroll-proportion="0.0">
           <caret line="61" column="30" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.events/1.events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.events/2.testThis.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.events/4.events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.events/3.events.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26174498">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
